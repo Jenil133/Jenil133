@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jenil133
-- 👀 I’m interested in Solidity Development
+- 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email:- jenilsavalia058@gmail.com
