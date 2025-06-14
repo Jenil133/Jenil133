@@ -1,4 +1,4 @@
-# Sarvesh Waghmare
+# Jenil Savalia
 
 **MS in Applied Data Science, Data Intelligence · San José State University**
 *Aspiring Data Engineer focusing on scalable data architectures, real-time analytics & cloud platforms*
