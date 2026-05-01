@@ -99,10 +99,7 @@ Coursework: Data Warehouse, Big Data, Data Visualization, Mathematical Methods f
       <td>Java, Spring Boot, React, AWS, Docker</td>
     </tr>
     <tr>
-      <td><strong>MediRAG</strong></td>
-      <td><a href="https://github.com/Jenil133/mediRAG">GitHub</a></td>
-      <td>AI assistant to chat with medical documents using RAG.</td>
-      <td>FastAPI, Streamlit, LangChain, Pinecone, Groq API</td>
+ 
     </tr>
   </tbody>
 </table>
