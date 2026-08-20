@@ -124,7 +124,7 @@ Contributor to **[rocketride-org/rocketride-server](https://github.com/rocketrid
 
 - [#2001](https://github.com/rocketride-org/rocketride-server/pull/2001) · merged — first unit tests for `rocketlib`'s `depends.py`; removed the duplicate cache tests
 - [#1998](https://github.com/rocketride-org/rocketride-server/pull/1998) · merged — declare `pyjwt` so the published engine image starts
-- [#2002](https://github.com/rocketride-org/rocketride-server/pull/2002) · open, approved — refresh the MCP tool catalog instead of caching it once
+- [#2002](https://github.com/rocketride-org/rocketride-server/pull/2002) · merged — refresh the MCP tool catalog instead of caching it once
 
 <br/>
 
